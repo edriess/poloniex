@@ -1,0 +1,107 @@
+----------------------------------------------------------------------
+ Pairs listed (in alpha-order) are the ones which may be input.
+----------------------------------------------------------------------
+BTC_AMP BTC_ARDR BTC_BCH BTC_BCN BTC_BCY BTC_BELA BTC_BLK BTC_BTCD BTC_BTM BTC_BTS BTC_BURST
+BTC_CLAM BTC_CVC BTC_DASH BTC_DCR BTC_DGB BTC_DOGE BTC_EMC2 BTC_ETC BTC_ETH BTC_EXP
+BTC_FCT BTC_FLDC BTC_FLO BTC_GAME BTC_GAS BTC_GNO BTC_GNT BTC_GRC BTC_HUC BTC_LBC
+BTC_LSK BTC_LTC BTC_MAID BTC_NAV BTC_NEOS BTC_NMC BTC_NXC BTC_NXT BTC_OMG BTC_OMNI
+BTC_PASC BTC_PINK BTC_POT BTC_PPC BTC_RADS BTC_REP BTC_RIC BTC_SBD BTC_SC BTC_STEEM
+BTC_STORJ BTC_STR BTC_STRAT BTC_SYS BTC_VIA BTC_VRC BTC_VTC BTC_XBC BTC_XCP BTC_XEM
+BTC_XMR BTC_XPM BTC_XRP BTC_XVC BTC_ZEC BTC_ZRX ETH_BCH ETH_CVC ETH_ETC ETH_GAS
+ETH_GNO ETH_GNT ETH_LSK ETH_OMG ETH_REP ETH_STEEM ETH_ZEC ETH_ZRX USDT_BCH USDT_BTC
+USDT_DASH USDT_ETC USDT_ETH USDT_LTC USDT_NXT USDT_REP USDT_STR USDT_XMR USDT_XRP USDT_ZEC
+XMR_BCN XMR_BLK XMR_BTCD XMR_DASH XMR_LTC XMR_MAID XMR_NXT XMR_ZEC
+
+----------------------------------------------------------------------
+Enter (by typing) one of the crypto currency pairs shown above to start the 1-min moving avg.
+
+ It will take 1 min for the values to start appearing on the screen, as we'll get a new price value 1x per second.
+----------------------------------------------------------------------
+btc_eth
+You entered: btc_eth
+Price right now: 0.03646683
+----------------------------------------------------------------------
+Now calulating 1-min moving average.
+ Please wait 1 minute.
+ Kill the running program when you've seen enough ;)
+----------------------------------------------------------------------
+0 latestPrice = 0.03646684  BTC_ETH    Wait for it....59 seconds left.
+1 latestPrice = 0.03646684  BTC_ETH    Wait for it....58 seconds left.
+2 latestPrice = 0.03675821  BTC_ETH    Wait for it....57 seconds left.
+3 latestPrice = 0.03674999  BTC_ETH    Wait for it....56 seconds left.
+4 latestPrice = 0.03674999  BTC_ETH    Wait for it....55 seconds left.
+5 latestPrice = 0.03660001  BTC_ETH    Wait for it....54 seconds left.
+6 latestPrice = 0.03660001  BTC_ETH    Wait for it....53 seconds left.
+7 latestPrice = 0.03674993  BTC_ETH    Wait for it....52 seconds left.
+8 latestPrice = 0.03674992  BTC_ETH    Wait for it....51 seconds left.
+9 latestPrice = 0.03646693  BTC_ETH    Wait for it....50 seconds left.
+10 latestPrice = 0.03646693  BTC_ETH    Wait for it....49 seconds left.
+11 latestPrice = 0.0366372  BTC_ETH    Wait for it....48 seconds left.
+12 latestPrice = 0.0366372  BTC_ETH    Wait for it....47 seconds left.
+13 latestPrice = 0.03646697  BTC_ETH    Wait for it....46 seconds left.
+14 latestPrice = 0.0365  BTC_ETH    Wait for it....45 seconds left.
+15 latestPrice = 0.03650003  BTC_ETH    Wait for it....44 seconds left.
+16 latestPrice = 0.03650003  BTC_ETH    Wait for it....43 seconds left.
+17 latestPrice = 0.03663713  BTC_ETH    Wait for it....42 seconds left.
+18 latestPrice = 0.0365  BTC_ETH    Wait for it....41 seconds left.
+19 latestPrice = 0.0365  BTC_ETH    Wait for it....40 seconds left.
+20 latestPrice = 0.03650004  BTC_ETH    Wait for it....39 seconds left.
+21 latestPrice = 0.03650004  BTC_ETH    Wait for it....38 seconds left.
+22 latestPrice = 0.03663713  BTC_ETH    Wait for it....37 seconds left.
+23 latestPrice = 0.0366371  BTC_ETH    Wait for it....36 seconds left.
+24 latestPrice = 0.0366371  BTC_ETH    Wait for it....35 seconds left.
+25 latestPrice = 0.0366371  BTC_ETH    Wait for it....34 seconds left.
+26 latestPrice = 0.0366371  BTC_ETH    Wait for it....33 seconds left.
+27 latestPrice = 0.03650011  BTC_ETH    Wait for it....32 seconds left.
+28 latestPrice = 0.03650014  BTC_ETH    Wait for it....31 seconds left.
+29 latestPrice = 0.03650008  BTC_ETH    Wait for it....30 seconds left.
+30 latestPrice = 0.03663709  BTC_ETH    Wait for it....29 seconds left.
+31 latestPrice = 0.03650008  BTC_ETH    Wait for it....28 seconds left.
+32 latestPrice = 0.03659992  BTC_ETH    Wait for it....27 seconds left.
+33 latestPrice = 0.03659992  BTC_ETH    Wait for it....26 seconds left.
+34 latestPrice = 0.03650008  BTC_ETH    Wait for it....25 seconds left.
+35 latestPrice = 0.03653726  BTC_ETH    Wait for it....24 seconds left.
+36 latestPrice = 0.03628484  BTC_ETH    Wait for it....23 seconds left.
+37 latestPrice = 0.03628484  BTC_ETH    Wait for it....22 seconds left.
+38 latestPrice = 0.036119  BTC_ETH    Wait for it....21 seconds left.
+39 latestPrice = 0.0362  BTC_ETH    Wait for it....20 seconds left.
+40 latestPrice = 0.0362  BTC_ETH    Wait for it....19 seconds left.
+41 latestPrice = 0.03659983  BTC_ETH    Wait for it....18 seconds left.
+42 latestPrice = 0.03659983  BTC_ETH    Wait for it....17 seconds left.
+43 latestPrice = 0.0365991  BTC_ETH    Wait for it....16 seconds left.
+44 latestPrice = 0.03622  BTC_ETH    Wait for it....15 seconds left.
+45 latestPrice = 0.03622  BTC_ETH    Wait for it....14 seconds left.
+46 latestPrice = 0.03659907  BTC_ETH    Wait for it....13 seconds left.
+47 latestPrice = 0.03659906  BTC_ETH    Wait for it....12 seconds left.
+48 latestPrice = 0.03659906  BTC_ETH    Wait for it....11 seconds left.
+49 latestPrice = 0.03622001  BTC_ETH    Wait for it....10 seconds left.
+50 latestPrice = 0.03611902  BTC_ETH    Wait for it....9 seconds left.
+51 latestPrice = 0.03608703  BTC_ETH    Wait for it....8 seconds left.
+52 latestPrice = 0.03647998  BTC_ETH    Wait for it....7 seconds left.
+53 latestPrice = 0.03622001  BTC_ETH    Wait for it....6 seconds left.
+54 latestPrice = 0.03622001  BTC_ETH    Wait for it....5 seconds left.
+55 latestPrice = 0.0363189  BTC_ETH    Wait for it....4 seconds left.
+56 latestPrice = 0.03631893  BTC_ETH    Wait for it....3 seconds left.
+57 latestPrice = 0.03631893  BTC_ETH    Wait for it....2 seconds left.
+58 latestPrice = 0.03661319  BTC_ETH    Wait for it....1 seconds left.
+59 latestPrice = 0.03663713  BTC_ETH    oneMinAvg = 0.03649070366666666
+60 latestPrice = 0.03663719  BTC_ETH    oneMinAvg = 0.03649354283333333
+61 latestPrice = 0.03663713  BTC_ETH    oneMinAvg = 0.036496380999999994
+62 latestPrice = 0.03659999  BTC_ETH    oneMinAvg = 0.036493744
+63 latestPrice = 0.03631893  BTC_ETH    oneMinAvg = 0.03648655966666666
+64 latestPrice = 0.03631893  BTC_ETH    oneMinAvg = 0.036479375333333335
+65 latestPrice = 0.03631891  BTC_ETH    oneMinAvg = 0.03647469033333333
+66 latestPrice = 0.03639999  BTC_ETH    oneMinAvg = 0.03647135666666667
+67 latestPrice = 0.03639999  BTC_ETH    oneMinAvg = 0.03646552433333334
+68 latestPrice = 0.03639999  BTC_ETH    oneMinAvg = 0.03645969216666667
+69 latestPrice = 0.03639999  BTC_ETH    oneMinAvg = 0.0364585765
+70 latestPrice = 0.0364  BTC_ETH    oneMinAvg = 0.036457461
+71 latestPrice = 0.0364  BTC_ETH    oneMinAvg = 0.03645350766666666
+72 latestPrice = 0.0364  BTC_ETH    oneMinAvg = 0.03644955433333333
+73 latestPrice = 0.03631895  BTC_ETH    oneMinAvg = 0.03644708733333333
+74 latestPrice = 0.0365  BTC_ETH    oneMinAvg = 0.036447087333333336
+75 latestPrice = 0.03649999  BTC_ETH    oneMinAvg = 0.03644708666666667
+76 latestPrice = 0.0362491  BTC_ETH    oneMinAvg = 0.036442904500000005
+77 latestPrice = 0.0362491  BTC_ETH    oneMinAvg = 0.03643643733333334
+78 latestPrice = 0.0362491  BTC_ETH    oneMinAvg = 0.03643225566666666
+79 latestPrice = 0.0362491  BTC_ETH    oneMinAvg = 0.036428074000000005
